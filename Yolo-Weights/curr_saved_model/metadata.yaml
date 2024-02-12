@@ -1,0 +1,18 @@
+description: Ultralytics curr model trained on /content/currency-9/data.yaml
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+date: '2024-01-16T17:57:43.689620'
+version: 8.0.227
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: 100Egp
+  1: 10Egp
+  2: 200Egp
+  3: 20Egp
+  4: 50Egp
+  5: 5Egp
